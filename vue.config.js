@@ -8,7 +8,7 @@ module.exports = {
       filename:'index.html'
     }
   },
-  // 扩展webpack配置,使webpages加入编译
+  // 扩展webpack配置,使webpages加入编译123
   chainWebpack: config => {
     config.module
     .rule('js')
